@@ -41,7 +41,7 @@ data:
         - needs-rebase
         repos:
         - Impastors/jxdemo
-      target_url: http://dashboard-jx.
+      target_url: http://dashboard-jx.34.70.76.168.nip.io
 kind: ConfigMap
 metadata:
   creationTimestamp: null
